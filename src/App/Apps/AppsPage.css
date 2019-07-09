@@ -1,0 +1,9 @@
+.AppsPage-title {
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .AppsPage-title {
+    text-align: left;
+  }
+}
